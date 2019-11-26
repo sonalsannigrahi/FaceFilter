@@ -1,4 +1,4 @@
-# Applying Computer Vision in OpenCV to build an emotional classifier with face filters
+# Applying Computer Vision in OpenCV to build an emotional classifier with face filters [Updating]
 
 
 ## This repository covers:
